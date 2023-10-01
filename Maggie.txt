@@ -1,0 +1,15 @@
+Maggie
+Maggie, uma guerreira da classe de ataque, costumava odiar solicitações provenientes de apartamentos sem elevador. Entretanto, desde o fatídico evento do Apocalipse Zomborg, a personagem agora tem as coxas fortalecidas e uma capacidade pulmonar aprimorada através de um árduo e intenso treinamento especializado.
+
+Habilidades:
+Zoom Aéreo
+
+Maggie aplica uma sobrecarga nos circuitos de seu jetpack diminuindo a recarga de voo.
+
+Entrega Explosiva
+
+A personagem joga uma granada portátil que causa dano a todos os inimigos ao redor do local de impacto
+
+Impulso de Jet
+
+A velocidade de Maggie aumenta por um curto periodo depois de usar o Jetpack
